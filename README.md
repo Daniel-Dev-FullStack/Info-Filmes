@@ -22,6 +22,6 @@ Projeto front-end desenvolvido com **jQuery** que consome a **OMDb API** para pe
 Projeto criado para praticar consumo de APIs, manipulação do DOM, eventos e organização de código JavaScript utilizando jQuery.
 
 ## 👁️ Visualizar
-- Acesse a página:
+- Acesse a página: https://daniel-dev-fullstack.github.io/Info-Filmes/
 
 
